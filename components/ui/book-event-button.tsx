@@ -112,7 +112,7 @@ export function BookEventButton({
         <Button
           onClick={() => setShowForm(true)}
           disabled={availableSeats === 0 || isBooking}
-          className="border-2 border-teal-700"
+          className="border border-teal-700"
         >
           {isBooking
             ? "Booking..."
