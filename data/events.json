@@ -4,8 +4,13 @@
     "title": "Tech Innovation Summit",
     "description": "A conference on the latest tech innovations. Network with industry leaders and gain insights.",
     "date": "2024-11-10",
-    "availableSeats": 250,
-    "bookings": []
+    "availableSeats": 249,
+    "bookings": [
+      {
+        "name": "gasorecorene",
+        "location": "Musanze"
+      }
+    ]
   },
   {
     "id": "1730390000002",
@@ -149,6 +154,14 @@
     "description": "Learn how to take stunning photos in this interactive workshop.",
     "date": "2025-01-14",
     "availableSeats": 40,
+    "bookings": []
+  },
+  {
+    "id": "1730488821155",
+    "title": "Twaje Fest",
+    "description": "In commemoration of YB",
+    "date": "2024-11-12",
+    "availableSeats": 250,
     "bookings": []
   }
 ]
