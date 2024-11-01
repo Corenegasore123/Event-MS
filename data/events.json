@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1730380000001",
+    "title": "Tech Innovation Summit",
+    "description": "A conference on the latest tech innovations. Network with industry leaders and gain insights.",
+    "date": "2024-11-10",
+    "availableSeats": 250,
+    "bookings": []
+  },
+  {
+    "id": "1730380000002",
+    "title": "Community Service Day",
+    "description": "Join us to give back to the community with various volunteering activities.",
+    "date": "2024-11-20",
+    "availableSeats": 150,
+    "bookings": []
+  },
+  {
+    "id": "1730380000003",
+    "title": "Winter Wonderland Festival",
+    "description": "Celebrate winter with live music, food stalls, and a holiday market!",
+    "date": "2024-11-25",
+    "availableSeats": 400,
+    "bookings": []
+  },
+  {
+    "id": "1730380000004",
+    "title": "Holiday Craft Fair",
+    "description": "Get into the holiday spirit with our craft fair! Browse unique handmade gifts and enjoy seasonal treats.",
+    "date": "2024-12-01",
+    "availableSeats": 100,
+    "bookings": []
+  },
+  {
+    "id": "1730380000005",
+    "title": "End-of-Year Gala",
+    "description": "Join us for an elegant evening to celebrate the achievements of the year. Dinner, dancing, and awards await!",
+    "date": "2024-12-15",
+    "availableSeats": 300,
+    "bookings": []
+  },
+  {
+    "id": "1730380000006",
+    "title": "New Year's Eve Celebration",
+    "description": "Ring in the New Year with us! Enjoy food, drinks, and a countdown to midnight with live entertainment.",
+    "date": "2024-12-31",
+    "availableSeats": 500,
+    "bookings": []
+  },
+  {
+    "id": "1730380000007",
+    "title": "Spring Gardening Workshop",
+    "description": "Learn tips and tricks for starting a garden this spring season.",
+    "date": "2025-03-15",
+    "availableSeats": 80,
+    "bookings": []
+  },
+  {
+    "id": "1730380000008",
+    "title": "Jazz Night",
+    "description": "An evening of smooth jazz with local artists.",
+    "date": "2024-11-14",
+    "availableSeats": 60,
+    "bookings": []
+  },
+  {
+    "id": "1730380000009",
+    "title": "Art Exhibition Opening",
+    "description": "Opening night of the contemporary art exhibition. Meet the artists!",
+    "date": "2024-11-28",
+    "availableSeats": 90,
+    "bookings": []
+  },
+  {
+    "id": "1730380000010",
+    "title": "Food Truck Festival",
+    "description": "Sample dishes from a variety of food trucks.",
+    "date": "2024-11-22",
+    "availableSeats": 200,
+    "bookings": []
+  },
+  {
+    "id": "1730380000011",
+    "title": "Literature Fest",
+    "description": "Join us for readings, discussions, and book signings with renowned authors.",
+    "date": "2025-01-20",
+    "availableSeats": 150,
+    "bookings": []
+  },
+  {
+    "id": "1730380000012",
+    "title": "Outdoor Movie Night",
+    "description": "Bring your blanket and enjoy a movie under the stars.",
+    "date": "2024-11-18",
+    "availableSeats": 300,
+    "bookings": []
+  },
+  {
+    "id": "1730380000013",
+    "title": "Annual Charity Run",
+    "description": "Run for a cause! Proceeds support local charities.",
+    "date": "2024-12-10",
+    "availableSeats": 500,
+    "bookings": []
+  },
+  {
+    "id": "1730380000014",
+    "title": "Yoga in the Park",
+    "description": "A refreshing morning yoga session to kickstart your day.",
+    "date": "2024-11-15",
+    "availableSeats": 70,
+    "bookings": []
+  },
+  {
+    "id": "1730380000015",
+    "title": "Cooking Masterclass",
+    "description": "Learn from professional chefs in this hands-on cooking workshop.",
+    "date": "2025-02-10",
+    "availableSeats": 50,
+    "bookings": []
+  },
+  {
+    "id": "1730380000016",
+    "title": "Local Farmers Market",
+    "description": "Shop for fresh produce and handmade goods from local farmers and artisans.",
+    "date": "2024-12-03",
+    "availableSeats": 200,
+    "bookings": []
+  },
+  {
+    "id": "1730380000017",
+    "title": "Coding Bootcamp",
+    "description": "A one-day bootcamp to learn the basics of coding. Open to all ages.",
+    "date": "2024-11-27",
+    "availableSeats": 100,
+    "bookings": []
+  },
+  {
+    "id": "1730380000018",
+    "title": "Fitness Expo",
+    "description": "Discover the latest in fitness and wellness at this annual expo.",
+    "date": "2024-12-07",
+    "availableSeats": 150,
+    "bookings": []
+  },
+  {
+    "id": "1730380000019",
+    "title": "Photography Workshop",
+    "description": "Learn how to take stunning photos in this interactive workshop.",
+    "date": "2025-01-14",
+    "availableSeats": 40,
+    "bookings": []
+  }
+]
