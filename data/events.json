@@ -4,16 +4,20 @@
     "title": "Tech Innovation Summit",
     "description": "A conference on the latest tech innovations. Network with industry leaders and gain insights.",
     "date": "2024-11-10",
-    "availableSeats": 250,
-    "bookings": []
+    "availableSeats": 249,
+    "bookings": [
+      3
+    ]
   },
   {
     "id": "1730380000002",
     "title": "Community Service Day",
     "description": "Join us to give back to the community with various volunteering activities.",
     "date": "2024-11-20",
-    "availableSeats": 150,
-    "bookings": []
+    "availableSeats": 149,
+    "bookings": [
+      4
+    ]
   },
   {
     "id": "1730380000003",

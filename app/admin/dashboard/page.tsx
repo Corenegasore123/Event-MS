@@ -109,7 +109,7 @@ export default function AdminDashboard() {
     const response = await fetch(`/api/events/${editingEvent?.id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(newEvent), // Use newEvent for updating
+      body: JSON.stringify(newEvent), 
     });
 
     if (response.ok) {
@@ -131,14 +131,14 @@ export default function AdminDashboard() {
 
   return (
     <div className="container mx-auto p-6">
-      <div className="flex justify-between items-center mb-8">
+      <div className="flex justify-between items-center mb-8 bg-white fixed top-0 left-0 right-0 py-5 px-12">
         <h1 className="text-4xl font-bold text-teal-800">Admin Dashboard</h1>
         <Button onClick={handleLogout} className="bg-teal-700 hover:bg-teal-800 text-white">
           Logout
         </Button>
       </div>
 
-      <div className="flex justify-between mb-4">
+      <div className="flex justify-between mb-4 mt-20 px-14">
         <Input
           type="text"
           placeholder="Search Events"
@@ -158,9 +158,8 @@ export default function AdminDashboard() {
         </Button>
       </div>
 
-      <div className="flex flex-wrap gap-6">
+      <div className="flex flex-wrap gap-6 px-14">
         {loading ? (
-          // Show loading skeletons while fetching events
           Array.from({ length: 3 }).map((_, index) => <LoadingSkeleton key={index} />)
         ) : filteredEvents.length > 0 ? (
           filteredEvents.map((event) => (
