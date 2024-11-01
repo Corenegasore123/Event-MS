@@ -10,7 +10,7 @@ import {
   CardHeader,
   CardTitle,
   CardDescription,
-} from "../ui/card"
+} from "../ui/card";
 import {
   Dialog,
   DialogContent,
